@@ -20,6 +20,7 @@ I am currently focused on developing **[bashDSL](https://github.com/Trndcquy-367
 | :--- | :--- | :--- |
 | **AUR-builder** | A GitHub action repo for building AUR packages (experimental project , use as your own risk)| [View on GitHub](https://github.com/Trndcquy-3678/AUR-builder) |
 | **BashDSL** | A custom DSL built with Python to simplify shell scripting. | [View on GitHub](https://github.com/Trndcquy-3678/bashDSL) |
+| **LowTensor** | An experimental libary built with Python to make LM training practical. | [View on GitHub](https://github.com/Trndcquy-3678/low_tensor) |
 
 ## 🛠️ Tech Stack
 
