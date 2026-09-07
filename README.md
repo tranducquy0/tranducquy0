@@ -43,6 +43,7 @@ I have a dedicated profile/organization on codeberg.org. links here:
 | **YAPM** | yet another package manager | [go to org](https://codeberg.org/yapm) | Bash |
 | **NixOS Config** | my personal NixOS Flake | [go to repo](https://codeberg.org/quy/nixos-config) | Nix |
 | **pymap** | a stupidly small IMAP4.rev1 server | [go to repo](https://codeberg.org/quy/pymap) | Python |
+| **forgit** | a small `git http-backend` based Git forge | [go to repo](https://codeberg.org/quy/forgit) | Python |
 
 ## Forked projects
 
@@ -117,9 +118,4 @@ I'm always open to discussing new ideas, code, or just having a friendly chat.
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **Thanks for stopping by! Hope you have a fantastic day!** 😊
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Trndcquy-3678&color=brightgreen&style=flat-square&label=Profile+Views" />
-
 </div>
