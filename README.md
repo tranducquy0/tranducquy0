@@ -19,7 +19,7 @@ using Alpine on an Asus X453MA.
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 ### On this platform
 here are projects that's under my account:
@@ -42,6 +42,14 @@ I have a dedicated profile/organization on codeberg.org. links here:
 | ------- | ----------- | ----- | -------------- |
 | **YAPM** | yet another package manager | [go to org](https://codeberg.org/yapm) | Bash |
 | **NixOS Config** | my personal NixOS Flake | [go to repo](https://codeberg.org/quy/nixos-config) | Nix |
+| **pymap** | a stupidly small IMAP4.rev1 server | [go to repo](https://codeberg.org/quy/pymap) | Python |
+
+## Forked projects
+
+| Project | Description | Link (original project) | Link (forked) | Language used | Platform |
+| ------- | ----------- | ----------------------- | ------------- | ------------- | -------- |
+| **ant** | a small static Markdown server | [here](https://github.com/gechandesu/owl) | [go to repo](https://codeberg.org/quy/ant) | Python | Codeberg |
+| **proot** | An chroot-like implementation using ptrace, now with read-only mounts | [here](https://github.com/termux/proot) | [go to repo](https://github.com/tranducquy0/proot) | C | Github |
 
 ## Tech Stack
 
@@ -66,6 +74,13 @@ I have a dedicated profile/organization on codeberg.org. links here:
     alt="Bash"
     width=50
     height=50
+    />
+  &nbsp;
+  <img
+    src="https://cdn.simpleicons.org/c/A8B9CC"
+    width=50
+    height=50
+    alt="C"
     />
 </p>
 
