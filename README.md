@@ -56,7 +56,7 @@ I have a dedicated profile/organization on codeberg.org. links here:
 | Config Scope | Description | Link | Language used |
 | ------- | ----------- | ----- | -------------- |
 | **NixOS** | my personal NixOS Flake | [go to repo](https://codeberg.org/quy/nixos-config) | Nix |
-| **Agent skill warehouse** | my personal cross-agent global skills/commands/hooks | [go to repo](https://codeberg.org/quy/nixos-config) | Bash/Python + markdown |
+| **Agent skill warehouse** | my personal cross-agent global skills/commands/hooks | [go to repo](https://github.com/tranducquy0/skill_warehouse) | Bash/Python + markdown |
 
 ## Tech Stack
 
