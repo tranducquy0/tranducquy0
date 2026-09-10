@@ -41,7 +41,6 @@ I have a dedicated profile/organization on codeberg.org. links here:
 | Project | Description | Link | Language used |
 | ------- | ----------- | ----- | -------------- |
 | **YAPM** | yet another package manager | [go to org](https://codeberg.org/yapm) | Bash |
-| **NixOS Config** | my personal NixOS Flake | [go to repo](https://codeberg.org/quy/nixos-config) | Nix |
 | **pymap** | a stupidly small IMAP4.rev1 server | [go to repo](https://codeberg.org/quy/pymap) | Python |
 | **forgit** | a small `git http-backend` based Git forge | [go to repo](https://codeberg.org/quy/forgit) | Python |
 
@@ -51,6 +50,13 @@ I have a dedicated profile/organization on codeberg.org. links here:
 | ------- | ----------- | ----------------------- | ------------- | ------------- | -------- |
 | **ant** | a small static Markdown server | [here](https://github.com/gechandesu/owl) | [go to repo](https://codeberg.org/quy/ant) | Python | Codeberg |
 | **proot** | An chroot-like implementation using ptrace, now with read-only mounts | [here](https://github.com/termux/proot) | [go to repo](https://github.com/tranducquy0/proot) | C | Github |
+
+## dotfiles
+
+| Config Scope | Description | Link | Language used |
+| ------- | ----------- | ----- | -------------- |
+| **NixOS** | my personal NixOS Flake | [go to repo](https://codeberg.org/quy/nixos-config) | Nix |
+| **Agent skill warehouse** | my personal cross-agent global skills/commands/hooks | [go to repo](https://codeberg.org/quy/nixos-config) | Bash/Python + markdown |
 
 ## Tech Stack
 
