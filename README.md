@@ -41,7 +41,6 @@ I have a dedicated profile/organization on codeberg.org. links here:
 | Project | Description | Link | Language used |
 | ------- | ----------- | ----- | -------------- |
 | **YAPM** | yet another package manager | [go to org](https://codeberg.org/yapm) | Bash |
-| **pymap** | a stupidly small IMAP4.rev1 server | [go to repo](https://codeberg.org/quy/pymap) | Python |
 | **forgit** | a small `git http-backend` based Git forge | [go to repo](https://codeberg.org/quy/forgit) | Python |
 
 ## Forked projects
